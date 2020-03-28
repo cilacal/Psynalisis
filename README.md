@@ -5,10 +5,14 @@ The following analyses are done:
 
 - Data exploration, visualization: 
     - word clouds,
-       - Data prep: done
-       - Visualization for drug symbols: not done
+       - Data prep.: done
+       - Visualization on drug symbols: not done
     - vocabulary complexity comparison, 
-    - [visualization of the words that are most unique to that drug experience as compared to the others](https://www.rehabs.com/explore/drug-experiences/)
+       - Data prep.: done
+       - Visualization (how exactly?): not done
+    - [visualization of the words that are most unique to that drug experience as compared to the others](https://www.rehabs.com/explore/drug-experiences/):
+       - Data prep.: done
+       - Visualization on drug symbols: not done
 - Sentiment analysis:
     - categorizing experiences into *positive, negative and neutral* groups, 
     - finding the significant emotions of the experiences.
