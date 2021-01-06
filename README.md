@@ -1,14 +1,15 @@
 # Psynalisis - psychedelic data science
 This project is going to have three parts:
 
-1. Analyzing drug-consumption survey [dataset](https://github.com/deepak525/Drug-Consumption).
+1. Analyzing National Survey on Drug Use and Health, 2012 [dataset](https://www.icpsr.umich.edu/web/ICPSR/studies/34933#).
 
    The following analyses is planned:
 
    - Data exploration, visualization. [ ]
-   - [*Evaluating the risk to be drug consumer for each drug*](https://github.com/deepak525/Drug-Consumption) by giving manually input data. [ ]
+   - Advance analysis of the data using statistical methods. [ ]
+   - Evaluating the risk to be drug consumer for each drug by giving manually input data. [ ]
 
-2. Analysis of drug experiences downloaded from [erowid.org](erowid.org) (with the help of the script of [basnijholt](https://github.com/basnijholt/psychedelic-data-science)).
+2. Analysis of drug experiences downloaded from [erowid.org](https://erowid.org) (with the help of the script of [basnijholt](https://github.com/basnijholt/psychedelic-data-science)).
 
    The following analyses is planned: 
 
