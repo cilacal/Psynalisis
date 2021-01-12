@@ -1,5 +1,5 @@
 # Psynalisis - psychedelic data science
-This project is going to have three parts:
+This project is going to have three parts (later of course in different repositories):
 
 1. Analysis of drug experiences downloaded from [erowid.org](https://erowid.org) (with the help of the script of [basnijholt](https://github.com/basnijholt/psychedelic-data-science)).
 
@@ -44,7 +44,5 @@ This project is going to have three parts:
    Creation of a website with the following functionalities is planned:
 
    - Users can fill the input parameters similar to the [above dataset](https://github.com/deepak525/Drug-Consumption) manually and they receive the risk to be drug consumer for each drug (in the seven category). [ ]
-
-   - Adding sites to show the results of the above described (_1)_) sentiment analysis and classification problems. [ ]
-      
+- Adding sites to show the results of the above described (_1)_) sentiment analysis and classification problems. [ ]
 
