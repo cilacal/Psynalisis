@@ -10,7 +10,7 @@ This project is going to have three parts (later of course in different reposito
      - Data preparation [x]
      - Word clouds based on [TF-IDF](http://www.tfidf.com/) separately for word classes (similar to [this](https://www.rehabs.com/explore/drug-experiences/))[X]
      - Visualization on drug symbols [X]
-     - Vocabulary complexity comparison [ ]
+     - Vocabulary complexity comparison [X]
 
    - Classification:
 
